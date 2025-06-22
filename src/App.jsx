@@ -12,7 +12,7 @@ import State from './hooks/State';
 import Form from './hooks/Form';
 import Effect from './hooks/Effect';
 import About from './Pages/about';
-
+import { UserProvider } from './hooks/UserContext';
 function App() {
   return (
     <>
